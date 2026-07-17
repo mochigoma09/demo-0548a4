@@ -1,2 +1,3 @@
 # demo-0548a4
-Auto generated demo site for 河合工務店
+
+AIによって自動生成された 河合工務店 様向けのデモサイトです。
